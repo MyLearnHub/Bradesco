@@ -67,8 +67,8 @@
   - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
   - <a href="https://nodejs.org/docs/latest/api/">Node.Js</a>
 
-### 📎Curso
-  - <a href="https://www.ev.org.br/">Trilha: Crie Um Site Simples</a>
+### 📎Trilha
+  - <a href="https://www.ev.org.br/">Crie Um Site Simples</a>
 
 # 📬Contato
 <div align="center"> 
