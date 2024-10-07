@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="100px" src="assets/bradesco_logo.png" alt="Logo do Bradesco" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=bradesco" alt="Logo do Bradesco" />
   <h3 align="center">Crie Um Site - Bradesco</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
   Esta trilha de conhecimento proporciona uma formação sólida em desenvolvimento web, ela é formada por 5 cursos que cobrem desde os fundamentos de HTML e CSS até a criação de sites completos com JavaScript. A trilha inclui cursos sobre HTML, CSS, JavaScript, integração e criação de sites utilizando essas tecnologias. Meu objetivo ao seguir essa trilha é aprimorar minhas habilidades em Front-End, capacitando-me a desenvolver interfaces web funcionais, responsivas e visualmente atraentes.
+  <div align="center">
+    <h3> 💻Tecnologias Aprendidas</h3>
+    <img src="https://iconsverse.vercel.app/icons?i=html,css,js" alt="Tecnologias Aprendidas">
+  </div>
 
 # 📚Conteúdo Abordado
   * **HTML Básico:** Este curso introduz os fundamentos essenciais do HTML, abordando as principais tags utilizadas na construção de páginas web. Como estruturar documentos HTML com semântica adequada, utilizando cabeçalhos, parágrafos, listas, links e imagens. Além disso, são apresentados conceitos de acessibilidade e boas práticas de codificação para garantir que o conteúdo seja acessível e bem-organizado.
